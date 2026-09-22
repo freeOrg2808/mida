@@ -1,0 +1,13 @@
+main.py
+setup.py
+notebook_cli.egg-info/PKG-INFO
+notebook_cli.egg-info/SOURCES.txt
+notebook_cli.egg-info/dependency_links.txt
+notebook_cli.egg-info/entry_points.txt
+notebook_cli.egg-info/top_level.txt
+notes/BaseNote.py
+notes/__init__.py
+notes/bookmark_note.py
+notes/json_handler.py
+notes/list_note.py
+notes/simple_note.py

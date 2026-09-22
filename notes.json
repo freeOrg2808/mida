@@ -1,0 +1,58 @@
+{
+    "maxid": 7,
+    "notes": [
+        {
+            "id": 1,
+            "title": "This is my debug title",
+            "createdAt": "2026-07-21T15:19:00",
+            "updatedAt": "2026-08-25T15:20:31.967590",
+            "type": "simple",
+            "text": "This is the content"
+        },
+        {
+            "id": 2,
+            "title": "new title for note 2",
+            "createdAt": "2026-07-21T15:19:00",
+            "updatedAt": "2026-09-01T10:41:36.124805",
+            "type": "simple",
+            "text": "This is the content"
+        },
+        {
+            "id": 4,
+            "title": "new title for note 444444444444444444444444444444444444444444444444444444444",
+            "createdAt": "2026-07-21T15:19:00",
+            "updatedAt": "2026-08-17T11:08:43.776783",
+            "type": "bookmark",
+            "url": ""
+        },
+        {
+            "id": 5,
+            "title": "Shopping List",
+            "createdAt": "2026-09-01T10:51:09.559550",
+            "updatedAt": "2026-09-01T10:51:09.559550",
+            "type": "simple",
+            "text": "Milk, Bread, Eggs"
+        },
+        {
+            "id": 6,
+            "title": "Google Website",
+            "createdAt": "2026-09-01T10:53:26.433843",
+            "updatedAt": "2026-09-01T10:53:26.433843",
+            "type": "bookmark",
+            "url": "https://google.com"
+        },
+        {
+            "id": 7,
+            "title": "Groceries",
+            "createdAt": "2026-09-01T10:53:47.857363",
+            "updatedAt": "2026-09-01T10:53:47.857363",
+            "type": "list",
+            "list": [
+                "Milk",
+                "Bread",
+                "Chocolate",
+                "Eggs"
+            ]
+        }
+    ]
+}
